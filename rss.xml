@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kajakbilen]]></title>
         <description><![CDATA[Kajakbilen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kajakbilen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 05:48:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 20:10:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kajakbilen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>fff</p>]]></description>
+            <link>https://thegrid.ai/kajakbilen/0358f861-7d42-4342-9e95-b1b408065f80/index.html</link>
+            <guid isPermaLink="false">0358f861-7d42-4342-9e95-b1b408065f80</guid>
+            <pubDate>Wed, 16 Mar 2016 20:10:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Xx]]></title>
-            <description><![CDATA[<article><h1>Xx</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5434b80-f389-4281-977f-a4e0edea023a.png"></article>]]></description>
-            <link>undefinedxx/index.html</link>
+            <description><![CDATA[<article><h1>Xx</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed4677319b64fccc2f572e3625e30e207dfd44ea.png"></article>]]></description>
+            <link>https://thegrid.ai/kajakbilen/xx/index.html</link>
             <guid isPermaLink="false">a63a62db-3047-4b78-8367-27611c693820</guid>
             <pubDate>Mon, 15 Feb 2016 05:47:11 GMT</pubDate>
         </item>
